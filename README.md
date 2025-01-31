@@ -1,2 +1,3 @@
-# Entendendo Git de uma vez por todas!
+# Primeiros passos com projetos colaborativos utilizando Git e Github
+
 
